@@ -77,7 +77,7 @@ Example: Check their roles (e.g., developers vs. managers) to estimate their tec
 
 Example: Begin with basic concepts and gradually introduce technical details if they engage positively.
 
-**Why It Works*
+**Why It Works**
 
 -Avoids overwhelming non-experts.
 
